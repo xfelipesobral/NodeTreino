@@ -2,7 +2,8 @@ const router = require('express').Router()
 
 router.get('/', (req, res) => {
     res.send({
-        status: 'OK'
+        status: 'OK',
+        versao: '1'
     })
 })
 
