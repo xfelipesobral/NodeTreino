@@ -1,0 +1,22 @@
+{
+  "name": "nodetreino",
+  "version": "1.0.0",
+  "description": "Repositório para treinar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfelipesobral/NodeTreino.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfelipesobral/NodeTreino/issues"
+  },
+  "homepage": "https://github.com/xfelipesobral/NodeTreino#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
